@@ -1,0 +1,10 @@
+E:\GitHub\libfvad\Tester\bin\Debug\Tester.exe.config
+E:\GitHub\libfvad\Tester\bin\Debug\Tester.exe
+E:\GitHub\libfvad\Tester\bin\Debug\Tester.pdb
+E:\GitHub\libfvad\Tester\bin\Debug\libfvadWrapper.dll
+E:\GitHub\libfvad\Tester\bin\Debug\libfvadWrapper.pdb
+E:\GitHub\libfvad\Tester\obj\Debug\Tester.csprojAssemblyReference.cache
+E:\GitHub\libfvad\Tester\obj\Debug\Tester.csproj.CoreCompileInputs.cache
+E:\GitHub\libfvad\Tester\obj\Debug\Tester.csproj.CopyComplete
+E:\GitHub\libfvad\Tester\obj\Debug\Tester.exe
+E:\GitHub\libfvad\Tester\obj\Debug\Tester.pdb

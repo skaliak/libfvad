@@ -1,0 +1,6 @@
+E:\GitHub\libfvad\libfvadWrapper\bin\Release\libfvadWrapper.dll
+E:\GitHub\libfvad\libfvadWrapper\bin\Release\libfvadWrapper.pdb
+E:\GitHub\libfvad\libfvadWrapper\obj\Release\libfvadWrapper.csprojAssemblyReference.cache
+E:\GitHub\libfvad\libfvadWrapper\obj\Release\libfvadWrapper.csproj.CoreCompileInputs.cache
+E:\GitHub\libfvad\libfvadWrapper\obj\Release\libfvadWrapper.dll
+E:\GitHub\libfvad\libfvadWrapper\obj\Release\libfvadWrapper.pdb

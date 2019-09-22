@@ -1,0 +1,5 @@
+E:\GitHub\libfvad\libfvadWrapper\bin\Debug\libfvadWrapper.dll
+E:\GitHub\libfvad\libfvadWrapper\bin\Debug\libfvadWrapper.pdb
+E:\GitHub\libfvad\libfvadWrapper\obj\Debug\libfvadWrapper.csproj.CoreCompileInputs.cache
+E:\GitHub\libfvad\libfvadWrapper\obj\Debug\libfvadWrapper.dll
+E:\GitHub\libfvad\libfvadWrapper\obj\Debug\libfvadWrapper.pdb
